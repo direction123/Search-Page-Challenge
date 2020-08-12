@@ -12,7 +12,7 @@ Please go to folder my-app, run "npm install", then run "npm start"
 - Forms in tradeshift UI components library is used.
 
 
-Part 3 are in folder my-app.
+Part 3 are in folder part-3.
 1. How to run
 Please go to folder backend, run "npm install", then run "npm start".
 Please go to folder frontend, run "npm install", then run "npm start".
